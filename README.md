@@ -1,16 +1,37 @@
-### Hi there 👋
 
-<!--
-**Saeedahmadi7714/Saeedahmadi7714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saeed-ahmadi7714)](https://www.linkedin.com/in/saeed-ahmadi7714/) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:saeedahmadi7714@gmail.com) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+
+  ___   _      ___   _      ___   _      ___   _      ___   _
+ [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
+  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
+ /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
+       |____________|____________|____________|____________|
+                             |            |            |
+                         ___  \_      ___  \_      ___  \_
+                        [(_)] |=|    [(_)] |=|    [(_)] |=|
+                         '-`  |_|     '-`  |_|     '-`  |_|
+                        /mmm/        /mmm/        /mmm/
+
+┌──┤ WHOAMI ├───────────────────────────────▰▰▰
+│
+├─▣ Backend Developer
+│ 
+├─▣ Technophile
+│
+└──────────────────────────────────────────▰▰▰
+
+┌──┤ SOCIAL ├───────────────────────────────▰▰▰
+│
+├─◈ <a href="https://twitter.com/Guilty_0_1">Twitter</a>
+├─◈ <a href="https://t.me/avenkar">Telegram</a>
+├─◈ <a href="https://www.linkedin.com/in/saeed-ahmadi7714">LinkedIn</a>
+│
+└─────────────────────────────────────────▰▰▰
+
+┌──┤ PROJECTS ├────────────────────────────▰▰▰
+├─◈ <a href="https://github.com/Saeedahmadi7714/quote"> Quote </a>
+└─────────────────────────────────────────▰▰▰
+</pre>
