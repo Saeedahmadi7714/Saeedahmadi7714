@@ -3,7 +3,6 @@
 
 <img src = 'https://github.com/Saeedahmadi7714/Saeedahmadi7714/blob/main/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
 ![](https://visitor-badge.glitch.me/badge?page_id=Saeedahmadi7714.Saeedahmadi7714)  
 <pre>
 ├─▣ Backend Developer
