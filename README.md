@@ -21,9 +21,5 @@
 <pre>
 ├─▣ Python Backend Developer
 ├────────────────────────────────────────────────────────────────────────
-├─◈ <a href="https://www.linkedin.com/in/saeed-ahmadi7714">LinkedIn</a>│
-├────────────────────────────────────────────────────────────────────────
 ├─◈ <a href="https://github.com/Saeedahmadi7714/quote"> Quote </a>
 </pre>
-<br>
-
