@@ -9,9 +9,7 @@
 <a href="https://www.linkedin.com/in/saeed-ahmadi7714">
     <img align="left" alt="Hillary Nyakundi | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-   <a href="saeedahmadi7714@gmail.com">
-    <img align="left" alt="Hillary Nyakundi | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+  
   <br>
   
 <h3 align="left">Languages and Tools:</h3>
