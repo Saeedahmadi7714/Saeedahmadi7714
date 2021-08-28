@@ -3,8 +3,6 @@
 
 <img src = 'https://github.com/Saeedahmadi7714/Saeedahmadi7714/blob/main/images/matrix.gif' alt = 'Awesome Matrix Code' align='left'/>
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Saeedahmadi7714.Saeedahmadi7714)  
-[![Gmail Badge](https://img.shields.io/badge/-Saeedahmadi7714@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=saeedahmadi7714@gmail.com)](mailto:saeedahmadi7714@gmail.com)  -->
 <a href="https://www.linkedin.com/in/saeed-ahmadi7714">
     <img align="left" alt="Hillary Nyakundi | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -12,7 +10,6 @@
     <img align="left" alt="Hillary Nyakundi | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
   <br>
-<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
