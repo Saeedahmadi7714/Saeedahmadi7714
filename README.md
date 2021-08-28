@@ -19,9 +19,9 @@
 </pre>
 
 <details>
-<summary>📈 My Github Stats</summary>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=saeedahmadi7714&show_icons=true&theme=radical" alt="Odin" />
- 
- ![Visitor Count](https://profile-counter.glitch.me/{saeedahmadi7714}/count.svg)
+<!-- <summary>📈 My Github Stats</summary> -->
+<!-- <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=saeedahmadi7714&show_icons=true&theme=radical" alt="Odin" />
+  -->
+<p align="right" ![Visitor Count](https://profile-counter.glitch.me/{saeedahmadi7714}/count.svg) </p>
 
 </details>
