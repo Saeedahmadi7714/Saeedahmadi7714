@@ -1,11 +1,11 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{saeedahmadi7714}/count.svg)
-<a href="https://www.linkedin.com/in/saeed-ahmadi7714">
+<!-- <a href="https://www.linkedin.com/in/saeed-ahmadi7714">
     <img align="right" alt="Hillary Nyakundi | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
    <a href="saeedahmadi7714@gmail.com">
     <img align="right" alt="Hillary Nyakundi | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+  </a> -->
 <img src = 'https://github.com/Saeedahmadi7714/Saeedahmadi7714/blob/main/images/matrix.gif' alt = 'Awesome Matrix Code' align='left'/>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=Saeedahmadi7714.Saeedahmadi7714)  
