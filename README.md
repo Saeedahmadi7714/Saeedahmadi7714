@@ -11,6 +11,10 @@
    <a href="saeedahmadi7714@gmail.com">
     <img align="left" alt="Hillary Nyakundi | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+  <br>
+<br>
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
 
  
